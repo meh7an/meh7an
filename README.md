@@ -1,5 +1,5 @@
 ### About
-[![wakatime](https://wakatime.com/badge/user/018d49e4-9960-400a-87dc-4f6b88cc11fa.svg)](https://wakatime.com/@018d49e4-9960-400a-87dc-4f6b88cc11fa)
+#### To be written...
 <!--
 **meh7an/meh7an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
