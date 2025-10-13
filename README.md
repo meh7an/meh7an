@@ -7,6 +7,8 @@
 <div align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -24,7 +26,7 @@
 
 Building next-generation experiences for the Telegram platform:
 
-- **Bugs Platform** - Modern interface for Telegram's bug tracking system
+- **[Bugs Platform](https://t.me/BugsBot?startapp)** - Modern interface for Telegram's bug tracking system
 - **Teleminal** - Award-winning SSH terminal interface (3rd place in Telegram Mini-App Contest)
 - **Gifts App** - Feature-rich crypto payment integration for digital gifting
 - **Quoridor Duo** - Real-time multiplayer board game using WebSockets
