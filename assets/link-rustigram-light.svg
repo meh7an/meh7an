@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="52" viewBox="0 0 420 52" role="img" aria-label="meh7an/rustigram" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"><title>meh7an/rustigram</title><style>
+.s{font-family:system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.ls{letter-spacing:.06em}
+.fi{animation:fi .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm{display:none}}
+</style><defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 .5H.5V24" fill="none" stroke="#ECE8E0"/></pattern></defs><g transform="translate(0 0)"><rect width="416" height="52" fill="#F6F4EF"/><rect x=".5" y=".5" width="415" height="51" fill="none" stroke="#D8D2C6"/><path d="M6 14V6H14M402 6H410V14M6 38V46H14M402 46H410V38" fill="none" stroke="#B9B2A5"/><g class="fi" style="animation-delay:0.2s"><text x="20" y="31" class="m ls" font-size="13" fill="#5E6168">REPO</text><text x="72" y="31" class="s" font-size="15" fill="#17191D">meh7an/rustigram</text><text x="396" y="31" class="s" font-size="15" text-anchor="end" fill="#B43C22">↗</text></g></g></svg>

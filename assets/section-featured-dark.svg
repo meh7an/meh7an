@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="56" viewBox="0 0 840 56" role="img" aria-label="FEATURED" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"><title>FEATURED</title><style>
+.s{font-family:system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.ls{letter-spacing:.06em}
+.fi{animation:fi .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm{display:none}}
+</style><defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 .5H.5V24" fill="none" stroke="#13171C"/></pattern></defs><g transform="translate(0 0)"><rect width="840" height="56" fill="#0B0D10"/><rect x=".5" y=".5" width="839" height="55" fill="none" stroke="#272C34"/><path d="M6 14V6H14M826 6H834V14M6 42V50H14M826 50H834V42" fill="none" stroke="#3A404A"/><rect x="32" y="24" width="6" height="6" fill="#3AAEE8"/><rect x="41" y="24" width="6" height="6" fill="#E8643F"/><text x="56" y="33" class="m ls" font-size="13" fill="#9399A2">02 /<tspan fill="#E9E7E2"> FEATURED</tspan></text><text x="808" y="33" class="m" font-size="13" text-anchor="end" fill="#9399A2">public · 6 repos</text></g></svg>
