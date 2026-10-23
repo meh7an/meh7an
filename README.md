@@ -24,9 +24,7 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/private-dark.svg"><img src="assets/private-light.svg" width="100%" alt="Below the surface: eight private projects, shown as sealed files."></picture></p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/timetracker-top-dark.svg"><img src="assets/timetracker-top-light.svg" width="100%" alt="Time Tracker"></picture><br>
-<img src="https://mehran.tech/timetracker/map.svg" width="100%" alt="Live time tracker map"><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timetracker-bottom-dark.svg"><img src="assets/timetracker-bottom-light.svg" width="100%" alt="Time Tracker source"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://mehran.tech/timetracker/map.svg?theme=dark"><img src="https://mehran.tech/timetracker/map.svg?theme=light" width="100%" alt="Time Tracker: coding activity over the last 180 days, updated every 10 minutes."></picture></p>
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-more-dark.svg"><img src="assets/section-more-light.svg" width="100%" alt="More projects"></picture></p>
 
